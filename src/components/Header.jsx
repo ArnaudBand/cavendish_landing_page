@@ -11,8 +11,7 @@ function Header() {
         <div className="flex items-center justify-between">
           <div className="text-xl font-semibold text-gray-700">
             <a className="text-gray-800 hover:text-gray-900" href="#">
-              {/* <img src="https://www.cavendish.ac.ug/wp-content/themes/CUU_wp_2023/img/retouched-logo.png" alt="" /> */}
-              Cavendish
+              <img src="https://www.cavendish.ac.ug/wp-content/themes/CUU_wp_2023/img/retouched-logo.png" alt="" />
             </a>
           </div>
 
