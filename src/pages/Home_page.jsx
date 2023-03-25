@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
+import Main from '../components/Main';
 
 
 function Home_page() {
@@ -26,6 +27,7 @@ function Home_page() {
           </div>
         </div>
       </header>
+      <Main />
     </div>
   )
 }
