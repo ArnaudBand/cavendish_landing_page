@@ -1,7 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import 'tailwindcss/dist/tailwind.css';
 
 function Footer() {
   return (
