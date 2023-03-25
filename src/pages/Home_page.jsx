@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import Main from '../components/Main';
+import Footer from '../components/Footer';
 
 
 function Home_page() {
@@ -28,6 +29,7 @@ function Home_page() {
         </div>
       </header>
       <Main />
+      <Footer />
     </div>
   )
 }
