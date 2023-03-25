@@ -1,8 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
-// import ReactDOM from 'react-dom';
-// import './index.css';
-// import 'tailwindcss/dist/tailwind.css';
+
 
 function Home_page() {
   return (
