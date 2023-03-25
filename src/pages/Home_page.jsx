@@ -11,7 +11,7 @@ function Home_page() {
 
       <header className="bg-white shadow">
         <div className="container mx-auto px-6 py-12">
-          <h1 className="text-4xl font-bold text-center text-gray-800">Welcome to Cavendish University of Uganda</h1>
+          <h1 className="text-4xl font-bold text-center text-gray-800">Call Center of CUU</h1>
           <h2 className="text-center text-xl text-gray-700 mt-4">Cavendish University Uganda (CUU) is a leading Private University in Uganda established in 2008 and is licensed and accredited by the Uganda National Council for Higher Education (NCHE).</h2>
 
           <div className="flex justify-center mt-8">
