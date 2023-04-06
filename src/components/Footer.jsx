@@ -32,7 +32,7 @@ function Footer() {
         <div className="mt-16 border-t border-gray-700 py-5">
           <div className="flex flex-wrap justify-center">
             <div className="w-full sm:w-auto text-center sm:text-left">
-              <span className="text-gray-400 text-sm">© 2023 Your Company. All rights reserved.</span>
+              <span className="text-gray-400 text-sm">© 2023 Cavendish University of Uganda. All rights reserved.</span>
             </div>
           </div>
         </div>
